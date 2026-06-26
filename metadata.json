@@ -1,0 +1,6 @@
+{
+  "name": "公司派對抽獎與分組系統",
+  "description": "專為公司尾牙、Party 打造的抽獎與自動分組工具。支援上傳 CSV 或貼上名單，提供流暢的抽獎抽籤動畫，並支援重複/不重複抽獎以及智能分組與視覺化結果。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
